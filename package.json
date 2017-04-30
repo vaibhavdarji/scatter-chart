@@ -1,0 +1,21 @@
+{
+  "name": "MeetylDataSet",
+  "version": "1.0.0",
+  "title": "Irish Flower Data Set",
+  "description": "scatter plots of irish flower data set",
+  "author": {
+      "name": "Vaibhav Darji",
+      "url": "www.linkedin.com/in/vaibhavdarji"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jasmine": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express": "^1.4.1"
+  }
+}
